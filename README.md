@@ -1,6 +1,3 @@
-¡Claro! Aquí tienes el README traducido al inglés y con los mismos elementos estilísticos.
-
----
 
 # Hi, I'm Juan Felipe Pulgarin! 👋
 
