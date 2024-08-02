@@ -1,34 +1,43 @@
-Entendido, vamos a hacerlo más estilizado y con detalles adicionales. Incluiremos una animación en la portada y las tecnologías como botones al final.
+¡Claro! Aquí tienes el README traducido al inglés y con los mismos elementos estilísticos.
 
 ---
 
-# ¡Hola, soy Juan Felipe Pulgarin! 👋
+# Hi, I'm Juan Felipe Pulgarin! 👋
 
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por el **backend**, con una inclinación hacia tecnologías modernas y eficientes. Aquí encontrarás una muestra de mis proyectos y contribuciones en el desarrollo de software.
+Welcome to my GitHub profile! I'm a backend development enthusiast with a passion for modern and efficient technologies. Here you'll find a showcase of my projects and contributions to the world of software development.
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy un entusiasta del desarrollo backend con experiencia en la creación de soluciones robustas y escalables. Me encanta resolver problemas complejos y optimizar el rendimiento de las aplicaciones. Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer en el campo de la tecnología.
+I'm a backend developer focused on creating robust and scalable solutions. I enjoy solving complex problems and optimizing application performance. I'm always on the lookout for new challenges and opportunities to learn and grow in the tech field.
 
-## 🎯 Áreas de interés
+## 🎯 Areas of Interest
 
-- **Desarrollo Backend**: APIs RESTful, microservicios y sistemas distribuidos.
-- **Optimización de rendimiento**: Mejora de eficiencia y escalabilidad.
-- **Seguridad en aplicaciones**: Implementación de prácticas de seguridad y protección de datos.
-- **Arquitectura de software**: Diseño y construcción de sistemas robustos.
+- **Backend Development**: RESTful APIs, microservices, and distributed systems.
+- **Performance Optimization**: Enhancing efficiency and scalability.
+- **Application Security**: Implementing security best practices and data protection.
+- **Software Architecture**: Designing and building robust systems.
 
+## 🌟 Featured Projects
 
-## 🌐 Conéctate conmigo
+### [Project 1](#)
+Project 1 description: Explain how you used your skills to solve a specific problem and what technologies you employed.
 
-- cel: 3132797866
+### [Project 2](#)
+Project 2 description: Highlight the achievements and challenges overcome, as well as the impact of your work.
 
-## 📊 Estadísticas de GitHub
+## 🌐 Connect with Me
 
-![Estadísticas de GitHub de Juan Felipe Pulgarin](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+- [LinkedIn](#)
+- [Twitter](#)
+- [Email](mailto:juan@example.com)
 
-## 💻 Tecnologías que uso
+## 📊 GitHub Stats
+
+![Juan Felipe Pulgarin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 💻 Technologies I Use
 
 <div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -41,8 +50,6 @@ Soy un entusiasta del desarrollo backend con experiencia en la creación de solu
 
 ---
 
-¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos interesantes y emocionantes. No dudes en contactarme para discutir cualquier idea o propuesta.
+Thanks for visiting my profile! I'm always open to collaborating on interesting and exciting projects. Feel free to reach out to discuss any ideas or proposals.
 
----
 
-Este README incluye una animación para darle vida, describe tus áreas de interés y resalta tus habilidades de manera organizada. Los botones para las tecnologías utilizadas le dan un toque visual moderno y atractivo. Puedes modificar los enlaces y detalles específicos según tus necesidades. ¡Espero que te guste!
