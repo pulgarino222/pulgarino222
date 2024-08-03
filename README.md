@@ -17,8 +17,7 @@ As a backend development enthusiast, I love building scalable and robust systems
 - **🔒 Application Security**: Implementing best practices to safeguard data and ensure secure applications.
 - **🏛️ Software Architecture**: Designing solid and scalable architectures that meet the demands of users and businesses.
 
-## 💻 Technologies & Tools
-
+💻 Technologies & Tools
 I enjoy working with a diverse set of technologies, blending creativity with technical expertise. Here's a snapshot of the tools and languages I use:
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -30,6 +29,8 @@ I enjoy working with a diverse set of technologies, blending creativity with tec
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </div>
 
 ## 🌟 Fun Facts About Me
