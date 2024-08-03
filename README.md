@@ -2,9 +2,7 @@
 
 # Hi, I'm Juan Felipe Pulgarin! 👋
 
-![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-![Gradient Background](https://via.placeholder.com/1000x200/4facfe/00f2fe?text=%20)
+![Vibrant Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 🌟 **Welcome to my GitHub Profile!** 🌟  
 I'm a passionate backend developer with a knack for modern technologies and creating efficient solutions. I thrive on challenges and am always eager to learn new things. Let's dive into my world of coding!
@@ -52,6 +50,8 @@ I'm always excited to connect with like-minded individuals and explore new oppor
 - [LinkedIn](#)
 - [Twitter](#)
 - [Email](mailto:juan@example.com)
+
+
 
 
 
