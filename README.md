@@ -1,8 +1,8 @@
-
-
 # Hi, I'm Juan Felipe Pulgarin! 👋
 
 ![Vibrant Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=juan-felipe-pulgarin)
 
 🌟 **Welcome to my GitHub Profile!** 🌟  
 I'm a passionate backend developer with a knack for modern technologies and creating efficient solutions. I thrive on challenges and am always eager to learn new things. Let's dive into my world of coding!
@@ -50,6 +50,11 @@ I'm always excited to connect with like-minded individuals and explore new oppor
 - [LinkedIn](#)
 - [Twitter](#)
 - [Email](mailto:juan@example.com)
+
+---
+
+**Nota**: Asegúrate de reemplazar `juan-felipe-pulgarin` con tu nombre de usuario de GitHub y actualizar los enlaces de redes sociales y correo electrónico con tus datos reales.
+
 
 
 
