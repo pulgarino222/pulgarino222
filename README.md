@@ -47,9 +47,9 @@ I enjoy working with a diverse set of technologies, blending creativity with tec
 
 I'm always excited to connect with like-minded individuals and explore new opportunities. Feel free to reach out via the platforms below:
 
-- [LinkedIn](#)
-- [Twitter](#)
-- [Email](mailto:juan@example.com)
+- [LinkedIn](https://www.linkedin.com/in/juan-felipe-pulgarin-hernandez-10b5b330a/)
+- [phone](+57 3132797866)
+- [Email](mailto:pulgarinhernandezjuanfelipe@gmail.com)
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=pulgarino222)
 
