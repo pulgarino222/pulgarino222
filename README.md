@@ -1,6 +1,4 @@
-Claro, aquí está tu perfil actualizado con React incluido:
 
----
 
 # Hi, I'm Juan Felipe Pulgarin! 👋
 
